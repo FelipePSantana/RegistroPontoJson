@@ -1,0 +1,9 @@
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\RegistroPonto.Test.dll
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\RegistroPonto.Test.pdb
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\nunit.framework.dll
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\RegistroPonto.dll
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\RegistroPonto.pdb
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\nunit.framework.xml
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.csprojResolveAssemblyReference.cache
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.dll
+c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.pdb
