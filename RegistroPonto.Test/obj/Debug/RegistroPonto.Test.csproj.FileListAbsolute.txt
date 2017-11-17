@@ -7,3 +7,8 @@ c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\
 c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.csprojResolveAssemblyReference.cache
 c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.dll
 c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.pdb
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\PostSharp.dll
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\PostSharp.xml
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\RegistroPonto.Test.pssym
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\RegistroPonto.Test.dll.postsharp
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\obj\Debug\PostSharpHost.config

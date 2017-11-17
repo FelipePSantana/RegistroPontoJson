@@ -1,20 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.IO;
+using System.Runtime.Serialization.Json;
 using RegistroPonto.Mapeamento;
 
 namespace RegistroPonto.Processamento
 {
     public class Arquivo
     {
-        private static readonly string CaminhoCompleto = Configuracao.DiretorioAtual + Configuracao.NomeArquivo;
+        private static readonly string CaminhoCompleto = Configuracao.DiretorioAtual ;
         public static FileStream Criar()
         {
-            return new FileStream(CaminhoCompleto, FileMode.Create);
+            //TO-DO - arrumar caminho
+
+            Directory.CreateDirectory(@"C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\ponto\");
+
+            return new FileStream(@"C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto.Test\bin\Debug\ponto\" + Configuracao.NomeArquivo, FileMode.Create);
         }
 
         public static bool Existe()
@@ -24,22 +23,15 @@ namespace RegistroPonto.Processamento
 
         public static FileStream Recuperar()
         {
-            FileStream arquivo = null;
-
-            arquivo = !Existe() ? Criar() : new FileStream(CaminhoCompleto, FileMode.Append);
+            var arquivo = !Existe() ? Criar() : new FileStream(CaminhoCompleto, FileMode.Append);
 
             return arquivo;
         }
 
         public static StreamWriter Gravar()
         {
-           return new StreamWriter(Recuperar());
-        }
-
-        public static void GravarDados(Ponto ponto)
-        {
-            var stream = Gravar();
-
+            var arquivo = new StreamWriter(Recuperar());
+            return arquivo;
         }
     }
 }

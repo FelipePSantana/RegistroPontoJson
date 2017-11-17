@@ -5,3 +5,9 @@ c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\
 c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto\obj\Debug\RegistroPonto.pdb
 c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\nunit.framework.dll
 c:\users\felipe.santana\documents\visual studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\nunit.framework.xml
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\Hammock.ClientProfile.dll
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\Hammock.dll
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\Hammock.pdb
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\Hammock.ClientProfile.pdb
+C:\Users\felipe.santana\Documents\Visual Studio 2015\Projects\RegistroPontoJson\RegistroPonto\bin\Debug\Newtonsoft.Json.xml
